@@ -1,0 +1,6 @@
+{
+  "name": "广东高考高考看板",
+  "description": "广东省高考分数线历史趋势、分数/排名双向精细化查询以及AI志愿模拟填报助手，旨在帮助考生和家长高效完成志愿规划。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
